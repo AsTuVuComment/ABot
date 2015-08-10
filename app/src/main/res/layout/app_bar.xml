@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="#ff98aeff">
+
+    <!--
+    <Button
+        android:id="@+id/Bluetooth"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/ic_action_bluetooth"
+        android:enabled="true"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/compass"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/ic_action_compass"
+        android:enabled="true"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:clickable="true" />
+    ->
+
+
+
+
+    <Button
+        android:id="@+id/wheel"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/ic_action_wheel"
+        android:gravity="right"
+        android:enabled="true"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:clickable="true"
+
+        />
+
+    <Button
+        android:id="@+id/planet"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/ic_action_planet"
+        android:enabled="true"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:clickable="true" />
+
+    <Button
+        android:id="@+id/mouse"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/ic_action_mouse"
+        android:enabled="true"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:clickable="true" />
+    <Button
+        android:id="@+id/signal"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/ic_action_signal"
+        android:enabled="true"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:clickable="true" />
+
+
+    <Button
+        android:id="@+id/line"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:background="@drawable/ic_action_line_chart"
+        android:enabled="true"
+        android:backgroundTint="@android:color/holo_blue_dark"
+        android:clickable="true" />
+
+           -->
+
+</android.support.v7.widget.Toolbar>

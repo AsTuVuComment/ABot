@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/list_pairred"
+          android:title="@string/bt_devices"
+        android:icon="@drawable/ic_action_bluetooth"
+        app:showAsAction="always"
+        >
+    </item>
+
+    <item android:id="@+id/touch"
+        android:title="@string/touch"
+        android:icon="@drawable/ic_action_wheel"
+        android:color="@color/abc_background_cache_hint_selector_material_light"
+        app:showAsAction="always"
+        >
+    </item>
+
+    <item android:id="@+id/accel"
+        android:title="@string/accel"
+        android:icon="@drawable/ic_action_planet"
+        app:showAsAction="always"
+        >
+    </item>
+
+    <item android:id="@+id/line"
+        android:title="@string/line"
+        android:icon="@drawable/ic_action_mouse"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+
+    <item android:id="@+id/proxim"
+        android:title="@string/proxim"
+        android:icon="@drawable/ic_action_signal"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+
+    <item android:id="@+id/seuils"
+        android:title="@string/seuils"
+        android:icon="@drawable/ic_action_line_chart"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+    <item android:id="@+id/suicide"
+        android:title="@string/suicide"
+        android:icon="@drawable/ic_action_stumbleupon"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+    <item android:id="@+id/contour"
+        android:title="@string/contour"
+        android:icon="@drawable/ic_action_tiles_large"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+
+    <item android:id="@+id/about"
+        android:title="@string/about"
+
+       >
+    </item>
+
+    <item android:id="@+id/quit"
+        android:title="@string/quit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        app:showAsAction="always">
+    </item>
+</menu>

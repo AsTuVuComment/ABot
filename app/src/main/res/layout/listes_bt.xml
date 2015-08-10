@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/paired"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#999"
+        android:gravity="center"
+        android:text="@string/pairedDevices"
+        android:textColor="#fff" >
+    </TextView>
+
+    <ListView
+        android:id="@+id/paired_devices"
+        android:layout_width="match_parent"
+        android:layout_height="154dp"
+        android:layout_weight="0.53"
+        android:stackFromBottom="true" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/nouveauxModules"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffA"
+        android:gravity="center"
+        android:text="@string/NewDevices"
+        android:textColor="#000" >
+    </TextView>
+
+    <ListView
+        android:id="@+id/new_devices"
+        android:layout_width="match_parent"
+        android:layout_height="122dp"
+        android:stackFromBottom="true" >
+    </ListView>
+
+    <Button
+        android:id="@+id/scanBluetooth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Discovery" />
+
+</LinearLayout>

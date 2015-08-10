@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<resources>
+
+    <string name="app_name">jmABot</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Bonjour!</string>
+    <string name="ScanForBT">Connexion</string>
+    <string name="Title">Accéléro via Bluetooth</string>
+    <string name="BTonAndroid">Vérification BT sur Android ...</string>
+    <string name="BTon">Vérification BT, Android activé ...</string>
+    <string name="connecting">Essai de connexion ...</string>
+    <string name="connected">Connecté</string>
+    <string name="Discovery">Rechercher les modules BT</string>
+    <string name="Quit">Quitter</string>
+    <string name="pairedDevices">Modules Récents</string>
+    <string name="NewDevices">Nouveaux Modules</string>
+    <string name="MinimumPWMWidth">Min</string>
+    <string name="MaximumWidth">Max</string>
+    <string name="quit">Quitter jmABot</string>
+    <string name="bt_devices">Modules BT</string>
+    <string name="line">Mode Ligne</string>
+    <string name="touch">Mode Touch</string>
+    <string name="proxim">Mode Proxim</string>
+    <string name="accel">Mode Accéléromètre</string>
+    <string name="about">À Propos</string>
+    <string name="contour">Mode Contour</string>
+    <string name="suicide">Mode Pas Fou</string>
+    <string name="seuils">Ajuster Seuils</string>
+    <string name="quitMenu">quitMenu</string>
+    <string name="title_activity_mess">messActivity</string>
+    <string name="selectBT">Sélection module BT</string>
+
+</resources>
